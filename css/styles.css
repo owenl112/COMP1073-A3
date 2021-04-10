@@ -1,0 +1,35 @@
+body {
+	background-image: url(../images/backgroundPic.png);
+	color: aliceblue;
+	text-align: center;
+	font-size: 130%;
+}
+
+li {
+	list-style: none;
+}
+
+li > p {
+	display: inline;
+	margin: 0em 3% 0em 1%;
+}
+button {
+	background-color: ivory;
+	border: none;
+	height: 1.7em;
+	width: 6em;
+	font-size: 110%;
+	border-radius: .2em;
+}
+#addItem {
+	height: 1.4em;
+	width: 25%;
+	font-size: 100%;
+}
+li > input {
+	width: 20px;
+	height: 20px;
+	color: aqua;
+}
+
+
